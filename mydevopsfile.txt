@@ -1,2 +1,4 @@
 hello
 i am sruthi
+today i am going to start devops sesson
+git sessions
