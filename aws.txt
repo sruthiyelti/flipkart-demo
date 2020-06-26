@@ -1,1 +1,3 @@
 hi ia m using git bash to pratice
+hey i have added the new code 
+to my aws txt
